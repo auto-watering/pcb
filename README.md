@@ -1,5 +1,7 @@
 # Auto Watering PCB
 
+![PCB view](pcb.webp)
+
 KiCad project for auto watering PCB.
 This PCB is designed for up to 6 valves.
 
