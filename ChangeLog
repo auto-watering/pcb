@@ -1,0 +1,14 @@
+1.3 - 2023/08/21
+- Using PC817 photocoupler to isolate command from relays
+- Using separate PSU for ESP32 and relays
+
+1.2 - 2023/08/07
+- Using wide 2N2222 footprint
+- Replaced LM7805 with external 5VDC PSU
+- Add prototyping area on PCB
+
+1.1 - 2023/08/05
+- Fixed 2N2222 footprint orientation
+
+1.0 - 2023/07/28
+- First release
