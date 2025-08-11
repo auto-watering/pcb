@@ -7,6 +7,8 @@ This PCB is designed for up to 6 valves.
 
 This KiCad project requires Espressif KiCad Library.
 
+You can find a firmware designed to run on this board [on the dedicated repository](https://github.com/auto-watering/firmware).
+
 ## Required parts
 
 - ESP32 DevKit C
