@@ -53,3 +53,7 @@ for 5VDC, 12VDC, 24VAC, and the ESP32 with the
 
 ![PCB installed view](pictures/pcb_installed.jpg)
 
+## Improvements
+
+As EL817(D)-G optocoupler should be OK to control the relay coil, it may be
+appropriate to use a MOFSET between them.
