@@ -15,7 +15,7 @@ You can find a firmware designed to run on this board [on the dedicated reposito
 - Support for ESP32 board
 - For each valve:
   - SRD12VDC relay
-  - PC817 C photocoupler
+  - EL817(D)-G) or PC817 C photocoupler
   - LED
   - JST connector 1x02 2.50mm pitch (for case mounted LED)
   - 1 kOhm resistor
